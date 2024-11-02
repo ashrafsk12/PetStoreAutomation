@@ -1,67 +1,65 @@
-2024-11-01 22:36:55,110 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,134 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-01 22:36:55,135 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,145 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-01 22:36:55,146 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,146 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-01 22:36:55,147 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,151 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
-2024-11-01 22:36:55,185 - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
-2024-11-01 22:36:55,191 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-01 22:36:55,192 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,192 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-01 22:36:55,193 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-01 22:36:55,226 - [TestNG] Running:
-  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse--414315399\testng-customsuite.xml
-
-2024-11-01 22:36:55,308 - [Utils] DynamicGraphHelper.createDynamicGraph() took 19 ms.
-2024-11-01 22:36:56,381 - ***UserTests is Started***
-2024-11-01 22:36:56,381 - **********Creating User************
-2024-11-01 22:37:04,749 - **********Reading User Info************
-2024-11-01 22:37:06,047 - *********User Info is Displayed************
-2024-11-01 22:37:06,073 - **********Updating User************
-2024-11-01 22:37:07,337 - **********User Updated************
-2024-11-01 22:37:08,522 - **********Deleting User************
-2024-11-01 22:37:09,761 - ********User Deleted ************
-2024-11-01 22:37:09,762 - ***UserTests is Finshed***
-2024-11-01 22:37:10,099 - [TestNG] Time taken by org.testng.reporters.jq.Main@2c846d55: 213 ms
-2024-11-01 22:37:10,102 - [TestNG] Time taken by org.testng.reporters.FailedReporter@735167e1: 3 ms
-2024-11-01 22:37:10,130 - [TestNG] Time taken by org.testng.reporters.XMLReporter@66048c9e: 27 ms
-2024-11-01 22:37:10,161 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3d667b59: 31 ms
-2024-11-01 22:37:10,177 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e1b5532: 15 ms
-2024-11-01 22:37:10,177 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@366bf608: 0 ms
-2024-11-01 22:38:49,377 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\PetStoreAutomation\testng.xml"
-2024-11-01 22:38:50,434 - [TestNG] Running:
-  C:\Users\ADMIN\eclipse-workspace\PetStoreAutomation\testng.xml
-
-2024-11-01 22:38:51,989 - ***UserTests is Started***
-2024-11-01 22:38:51,989 - **********Creating User************
-2024-11-01 22:38:58,809 - **********Reading User Info************
-2024-11-01 22:39:00,102 - *********User Info is Displayed************
-2024-11-01 22:39:00,114 - **********Updating User************
-2024-11-01 22:39:01,362 - **********User Updated************
-2024-11-01 22:39:02,591 - **********Deleting User************
-2024-11-01 22:39:03,785 - ********User Deleted ************
-2024-11-01 22:39:03,786 - ***UserTests is Finshed***
-2024-11-01 22:56:41,700 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\PetStoreAutomation\masterapi.xml"
-2024-11-01 22:56:45,253 - ***UserTests is Started***
-2024-11-01 22:56:45,253 - **********Creating User************
-2024-11-01 22:56:55,403 - *******User is Created*********
-2024-11-01 22:56:55,451 - **********Reading User Info************
-2024-11-01 22:56:56,738 - *********User Info is Displayed************
-2024-11-01 22:56:56,746 - **********Updating User************
-2024-11-01 22:56:57,946 - **********User Updated************
-2024-11-01 22:56:59,131 - **********Deleting User************
-2024-11-01 22:57:00,337 - ********User Deleted ************
-2024-11-01 22:57:00,338 - ***UserTests is Finshed***
-2024-11-01 23:11:28,300 - suiteXmlPath: "C:\Users\ADMIN\eclipse-workspace\PetStoreAutomation\masterapi.xml"
-2024-11-01 23:11:30,747 - ***UserTests is Started***
-2024-11-01 23:11:30,749 - **********Creating User************
-2024-11-01 23:11:38,375 - *******User is Created*********
-2024-11-01 23:11:38,424 - **********Reading User Info************
-2024-11-01 23:11:39,699 - *********User Info is Displayed************
-2024-11-01 23:11:39,706 - **********Updating User************
-2024-11-01 23:11:40,909 - **********User Updated************
-2024-11-01 23:11:42,128 - **********Deleting User************
-2024-11-01 23:11:43,337 - ********User Deleted ************
-2024-11-01 23:11:43,338 - ***UserTests is Finshed***
+2024-11-02 20:22:40,243 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,252 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,292 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,295 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,297 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,338 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,340 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,342 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,385 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,387 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,389 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,438 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,440 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,443 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,476 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,478 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,480 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,524 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,525 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,527 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,566 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,570 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,573 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,611 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,613 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,615 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,653 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,655 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,657 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,686 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,688 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,690 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,720 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,722 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,724 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,756 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,757 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,759 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:40,795 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:40,797 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:40,799 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,336 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,339 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,348 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,394 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,395 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,397 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,435 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,437 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,439 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,493 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,495 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,497 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,527 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,528 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,530 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,565 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,566 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,567 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,596 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,598 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,599 - Parsing relationship: /_rels/.rels
+2024-11-02 20:22:49,632 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-02 20:22:49,634 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-02 20:22:49,635 - Parsing relationship: /_rels/.rels

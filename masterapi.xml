@@ -7,8 +7,8 @@
   <test thread-count="5" name="PetTest">
     <classes>
       <class name="api.test.UserTests"/>
-      <!--<class name="api.test.UserTests2forPropertiesFile"/>-->
-     <!-- <class name="api.test.DDTtest"/>-->
+      <class name="api.test.UserTests2forPropertiesFile"/>
+     <class name="api.test.DDTtest"/>
     </classes>
   </test> <!-- PetTest -->
 </suite> <!-- PetSuite -->
