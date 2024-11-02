@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T22:38:50 IST" name="PetSuite" finished-at="2024-11-01T22:39:03 IST" duration-ms="13328">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T22:38:50 IST" name="PetTest" finished-at="2024-11-01T22:39:03 IST" duration-ms="13328">
+      <class name="api.test.UserTests2forPropertiesFile">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests2forPropertiesFile@226642a5]" started-at="2024-11-01T22:38:51 IST" name="setupData" finished-at="2024-11-01T22:38:51 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPOSTUser()[pri:1, instance:api.test.UserTests2forPropertiesFile@226642a5]" started-at="2024-11-01T22:38:51 IST" name="testPOSTUser" finished-at="2024-11-01T22:38:58 IST" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOSTUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests2forPropertiesFile@226642a5]" started-at="2024-11-01T22:38:58 IST" name="testGetUserByName" finished-at="2024-11-01T22:39:00 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTests2forPropertiesFile@226642a5]" started-at="2024-11-01T22:39:00 IST" name="testUpdateUserByName" finished-at="2024-11-01T22:39:02 IST" duration-ms="2470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByName -->
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.UserTests2forPropertiesFile@226642a5]" started-at="2024-11-01T22:39:02 IST" name="testDeleteUserByName" finished-at="2024-11-01T22:39:03 IST" duration-ms="1199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+      </class> <!-- api.test.UserTests2forPropertiesFile -->
+    </test> <!-- PetTest -->
+  </suite> <!-- PetSuite -->
+</testng-results>
